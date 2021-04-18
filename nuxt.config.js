@@ -30,7 +30,7 @@ export default {
       },
     ],
     script: [
-      { src: 'http://localhost/Fuoye360_vue/public/js/swiped-events.js' },
+      { src: 'https://raw.githubusercontent.com/john-doherty/swiped-events/master/src/swiped-events.js' },
     ],
   },
 
