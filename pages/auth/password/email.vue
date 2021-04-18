@@ -69,7 +69,7 @@ import User from '@/assets/js/api/User'
 import regex from '@/assets/js/regex'
 
 export default {
-  middleware: ['auth'],
+  // middleware: ['auth'],
   data() {
     return {
       form: {

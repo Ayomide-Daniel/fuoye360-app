@@ -633,6 +633,7 @@ form .input-div select {
     background: var(--brand-color);
     padding: .5rem;
     border-radius: 1rem;
+    box-shadow: 0 0 14px var(--brand-color-bg);
     color: var(--white-color);
     margin-bottom: 1.5rem;
 }
@@ -641,7 +642,7 @@ form .input-div select {
     display: inline-block;
     width: inherit;
     height: inherit;
-    color: inherit;
+    color: inherit !important;
     text-decoration: none;
 }
 

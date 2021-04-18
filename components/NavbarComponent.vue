@@ -299,7 +299,7 @@ export default {
 
         btnStatus = true
 
-        $(document).on('keydown', function (e) {
+        $(document).keydown(function (e) {
           setTimeout(() => {
             if (e.keyCode === '39') {
               deg += 90
