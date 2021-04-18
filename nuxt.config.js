@@ -30,7 +30,10 @@ export default {
       },
     ],
     script: [
-      { src: 'https://raw.githubusercontent.com/john-doherty/swiped-events/master/src/swiped-events.js' },
+      {
+        src:
+          'https://raw.githubusercontent.com/john-doherty/swiped-events/master/src/swiped-events.js',
+      },
     ],
   },
 
