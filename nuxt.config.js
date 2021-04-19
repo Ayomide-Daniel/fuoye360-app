@@ -33,7 +33,7 @@ export default {
     script: [
       {
         src:
-          'https://raw.githubusercontent.com/john-doherty/swiped-events/master/src/swiped-events.js',
+          'https://fuoye360.com/js/swiped-events.js',
       },
     ],
   },
