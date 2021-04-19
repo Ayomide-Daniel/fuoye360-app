@@ -23,7 +23,7 @@
         <div class="about-avi">
           <img
             loading="lazy"
-            :src="require('@/assets/images/about.jpg')"
+            :src="require('@/assets/images/about.jpeg')"
             alt="about-image"
             style="margin: 0 auto"
           />
