@@ -70,7 +70,7 @@ export default {
             message: 'Oops! An error occured. Try again later',
           })
         }
-        if (element.status === 422) {
+        if (element.status === 419) {
           return messageToPush.push({
             message: 'Oops! An error occured kindly reload the webpage',
           })
