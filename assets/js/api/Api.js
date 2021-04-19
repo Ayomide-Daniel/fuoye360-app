@@ -1,6 +1,6 @@
 import axios from 'axios'
 const Api = axios.create({
-  baseURL: 'http://fuoye360.com/api',
+  baseURL: 'https://fuoye360.com/api',
 })
 Api.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest'
 Api.defaults.withCredentials = true
