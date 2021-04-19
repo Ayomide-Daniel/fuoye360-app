@@ -70,7 +70,7 @@ export default {
             message: 'Oops! An error occured. Try again later',
           })
         }
-        if (element.message === 'CSRF token mismatch.') {
+        if (element.status === 422) {
           return messageToPush.push({
             message: 'Oops! An error occured kindly reload the webpage',
           })
