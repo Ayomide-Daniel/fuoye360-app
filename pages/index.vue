@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="wrapper">
-      <h3 class="sb-text"><i class="fas fa-user"></i> Awesome Developer!</h3>
+      <h3 style="color:var(--brand-color)"><i class="fas fa-user"></i> Awesome Developer!</h3>
       <br />
       <div class="about-inspiration">
         <div class="about-avi">
