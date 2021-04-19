@@ -18,7 +18,7 @@ export default {
       { name: 'theme-color', content: '#32cd32' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/png', href: '@/assets/images/favicon.png' },
       {
         rel: 'stylesheet',
         href:
